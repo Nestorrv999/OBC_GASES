@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{072965B6-3013-4EC0-85DC-B4973421E001}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Oxigenos.Principal.MainForm</StartupObject>
+    <RootNamespace>Oxigenos.Principal</RootNamespace>
+    <AssemblyName>Oxigenos.Principal</AssemblyName>
+    <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <OSVersion>5.01</OSVersion>
+    <MyType>WindowsForms</MyType>
+    <DeployDirSuffix>Oxigenos.Nucleo</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>Oxigenos.Nucleo.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>false</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>Oxigenos.Nucleo.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatascanCF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\DatascanCF.dll</HintPath>
+    </Reference>
+    <Reference Include="DatascanCF.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\DatascanCF.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DatascanCF.Symbol, Version=1.0.2847.11956, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\DatascanCF.Symbol.dll</HintPath>
+    </Reference>
+    <Reference Include="DatascanCF.Windows.Forms, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\DatascanCF.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF, Version=2.2.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\OpenNETCF.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Drawing, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.IO.Serial, Version=1.0.2226.15122, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Net, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\OpenNETCF.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.VisualBasic, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Windows.Forms, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\OpenNETCF.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.WindowsCE, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\OpenNETCF.WindowsCE.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.WindowsCE.Messaging, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="Symbol, Version=1.6.1.1, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\Symbol.dll</HintPath>
+    </Reference>
+    <Reference Include="Symbol.Barcode, Version=1.6.1.1, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\Microsoft Visual Studio 8\SmartDevices\SDK\CompactFramework\2.0\v2.0\WindowsCE\Symbol.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="DatascanCF.Windows.Forms" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="OpenNETCF" />
+    <Import Include="OpenNETCF.Windows.Forms" />
+    <Import Include="Oxigenos.Common" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarClienteForm.designer.vb">
+      <DependentUpon>BuscarClienteForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarClienteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargaDatosForm.Designer.vb">
+      <DependentUpon>CargaDatosForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CargaDatosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarPedidoForm.designer.vb">
+      <DependentUpon>BuscarPedidoForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarPedidoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\NucleoDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NucleoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\NucleoDataSet.vb">
+      <DependentUpon>NucleoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DescargaDatosForm.Designer.vb">
+      <DependentUpon>DescargaDatosForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DescargaDatosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\TextSerializer.vb" />
+    <Compile Include="Components\GRPS.vb" />
+    <Compile Include="Components\IEstadoCarga.vb" />
+    <Compile Include="DireccionesClienteForm.Designer.vb">
+      <DependentUpon>DireccionesClienteForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DireccionesClienteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformacionClienteForm.designer.vb">
+      <DependentUpon>InformacionClienteForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InformacionClienteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfiguracionForm.Designer.vb">
+      <DependentUpon>ConfiguracionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfiguracionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\Definiciones.vb" />
+    <Compile Include="DataAccess\NucleoDataAccess.Designer.vb">
+      <DependentUpon>NucleoDataAccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\NucleoDataAccess.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess\NucleoSettings.vb" />
+    <Compile Include="AtencionPedidoForm.designer.vb">
+      <DependentUpon>AtencionPedidoForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AtencionPedidoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globales.vb" />
+    <Compile Include="MainForm.designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosClienteForm.Designer.vb">
+      <DependentUpon>PedidosClienteForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosClienteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\PrintManager.vb" />
+    <Compile Include="RuteroForm.designer.vb">
+      <DependentUpon>RuteroForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RuteroForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Web References\OxigenosWS\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BuscarClienteForm.resx">
+      <DependentUpon>BuscarClienteForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CargaDatosForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CargaDatosForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarPedidoForm.resx">
+      <DependentUpon>BuscarPedidoForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DescargaDatosForm.resx">
+      <DependentUpon>DescargaDatosForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DireccionesClienteForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DireccionesClienteForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformacionClienteForm.resx">
+      <DependentUpon>InformacionClienteForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfiguracionForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConfiguracionForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAccess\NucleoDataAccess.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NucleoDataAccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtencionPedidoForm.resx">
+      <DependentUpon>AtencionPedidoForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosClienteForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PedidosClienteForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RuteroForm.resx">
+      <DependentUpon>RuteroForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataAccess\NucleoDataSet.xsc">
+      <DependentUpon>NucleoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\NucleoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <RuntimeConnectionString>Data Source =".\Oxigenos.sdf"%3b</RuntimeConnectionString>
+      <LastGenOutput>NucleoDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataAccess\NucleoDataSet.xss">
+      <DependentUpon>NucleoDataSet.xsd</DependentUpon>
+    </None>
+    <Content Include="Oxigenos.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Liquidos.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Web References\OxigenosWS\DataAccess.disco" />
+    <None Include="Web References\OxigenosWS\DataAccess.wsdl" />
+    <None Include="Web References\OxigenosWS\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Oxigenos.Gases\Oxigenos.Gases.vbproj">
+      <Project>{98933D63-1EEF-4E85-8179-9758F89C82FC}</Project>
+      <Name>Oxigenos.Gases</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj">
+      <Project>{B51B1E06-F9AA-4255-91E3-589FF06CE84F}</Project>
+      <Name>Oxigenos.Liquidos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Oxigenos.Shared\Oxigenos.Common.vbproj">
+      <Project>{76A418BF-DD42-487F-A520-B907CE1326DE}</Project>
+      <Name>Oxigenos.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://192.168.0.24/WebServicesOBC/DataAccess.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\OxigenosWS\</RelPath>
+      <UpdateFromURL>http://192.168.0.24/WebServicesOBC/DataAccess.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F184B08F-C81C-45F6-A57F-5ABD9991F28F}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

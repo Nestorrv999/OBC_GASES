@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el Diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout Style="LeftRight" layoutVersion="2" viewPortLeft="0" viewPortTop="225530" zoom="100">
+    <NucleoDataSet_XmlElement left="1317" top="156251" width="5292" height="2831" selected="0" zOrder="1" index="0" expanded="1">
+        <Clientes_XmlElement left="7243" top="38568" width="5292" height="2831" selected="0" zOrder="2" index="0" expanded="1">
+            <Codigo_XmlElement left="13169" top="7873" width="5292" height="714" selected="0" zOrder="4" index="0" expanded="1">
+                <_x0028_Codigo_x0029__XmlSimpleType left="19095" top="6815" width="5292" height="2831" selected="0" zOrder="6" index="0" expanded="1" />
+            </Codigo_XmlElement>
+            <CodSucursal_XmlElement left="13169" top="11212" width="5292" height="714" selected="0" zOrder="9" index="1" expanded="1">
+                <_x0028_CodSucursal_x0029__XmlSimpleType left="19095" top="10154" width="5292" height="2831" selected="0" zOrder="12" index="0" expanded="1" />
+            </CodSucursal_XmlElement>
+            <Nombre_XmlElement left="13169" top="14551" width="5292" height="714" selected="0" zOrder="15" index="2" expanded="1">
+                <_x0028_Nombre_x0029__XmlSimpleType left="19095" top="13493" width="5292" height="2831" selected="0" zOrder="18" index="0" expanded="1" />
+            </Nombre_XmlElement>
+            <Nit_XmlElement left="13169" top="17824" width="5292" height="847" selected="0" zOrder="21" index="3" expanded="1">
+                <_x0028_Nit_x0029__XmlSimpleType left="19095" top="16832" width="5292" height="2831" selected="0" zOrder="23" index="0" expanded="1" />
+            </Nit_XmlElement>
+            <DiaAtencion_XmlElement left="13169" top="21163" width="5292" height="847" selected="0" zOrder="25" index="4" expanded="1">
+                <_x0028_DiaAtencion_x0029__XmlSimpleType left="19095" top="20171" width="5292" height="2831" selected="0" zOrder="27" index="0" expanded="1" />
+            </DiaAtencion_XmlElement>
+            <TipoPago_XmlElement left="13169" top="24502" width="5292" height="847" selected="0" zOrder="29" index="5" expanded="1">
+                <_x0028_TipoPago_x0029__XmlSimpleType left="19095" top="23510" width="5292" height="2831" selected="0" zOrder="31" index="0" expanded="1" />
+            </TipoPago_XmlElement>
+            <PasswordCliente_XmlElement left="13169" top="27841" width="5292" height="847" selected="0" zOrder="33" index="7" expanded="1">
+                <_x0028_PasswordCliente_x0029__XmlSimpleType left="19095" top="26849" width="5292" height="2831" selected="0" zOrder="35" index="0" expanded="1" />
+            </PasswordCliente_XmlElement>
+            <EstadoVisita_XmlElement left="13169" top="31180" width="5292" height="847" selected="0" zOrder="37" index="8" expanded="1">
+                <_x0028_EstadoVisita_x0029__XmlSimpleType left="19095" top="30188" width="5292" height="2831" selected="0" zOrder="39" index="0" expanded="1" />
+            </EstadoVisita_XmlElement>
+            <Secuencial_XmlElement left="13169" top="34519" width="5292" height="847" selected="0" zOrder="41" index="9" expanded="1">
+                <_x0028_Secuencial_x0029__XmlSimpleType left="19095" top="33527" width="5292" height="2831" selected="0" zOrder="43" index="0" expanded="1" />
+            </Secuencial_XmlElement>
+            <DiaRuta_XmlElement left="13169" top="37858" width="5292" height="847" selected="0" zOrder="45" index="10" expanded="1">
+                <_x0028_DiaRuta_x0029__XmlSimpleType left="19095" top="36866" width="5292" height="2831" selected="0" zOrder="47" index="0" expanded="1" />
+            </DiaRuta_XmlElement>
+            <Telefono_XmlElement left="13169" top="41197" width="5292" height="847" selected="0" zOrder="49" index="11" expanded="1">
+                <_x0028_Telefono_x0029__XmlSimpleType left="19095" top="40205" width="5292" height="2831" selected="0" zOrder="51" index="0" expanded="1" />
+            </Telefono_XmlElement>
+            <CodTipoCliente_XmlElement left="13169" top="44536" width="5292" height="847" selected="0" zOrder="53" index="12" expanded="1">
+                <_x0028_CodTipoCliente_x0029__XmlSimpleType left="19095" top="43544" width="5292" height="2831" selected="0" zOrder="55" index="0" expanded="1" />
+            </CodTipoCliente_XmlElement>
+            <FrecuenciaMensual_XmlElement left="13169" top="47875" width="5292" height="847" selected="0" zOrder="57" index="13" expanded="1">
+                <_x0028_FrecuenciaMensual_x0029__XmlSimpleType left="19095" top="46883" width="5292" height="2831" selected="0" zOrder="59" index="0" expanded="1" />
+            </FrecuenciaMensual_XmlElement>
+            <CreditoDisponible_XmlElement left="13169" top="51214" width="5292" height="847" selected="0" zOrder="61" index="14" expanded="1">
+                <_x0028_CreditoDisponible_x0029__XmlSimpleType left="19095" top="50222" width="5292" height="2831" selected="0" zOrder="63" index="0" expanded="1" />
+            </CreditoDisponible_XmlElement>
+            <Nuevo_XmlElement left="13169" top="54553" width="5292" height="847" selected="0" zOrder="65" index="15" expanded="1">
+                <_x0028_Nuevo_x0029__XmlSimpleType left="19095" top="53561" width="5292" height="2831" selected="0" zOrder="67" index="0" expanded="1" />
+            </Nuevo_XmlElement>
+            <PagaAlquiler_XmlElement left="13169" top="57892" width="5292" height="847" selected="0" zOrder="69" index="18" expanded="1">
+                <_x0028_PagaAlquiler_x0029__XmlSimpleType left="19095" top="56900" width="5292" height="2831" selected="0" zOrder="71" index="0" expanded="1" />
+            </PagaAlquiler_XmlElement>
+            <PagaDeposito_XmlElement left="13169" top="61231" width="5292" height="847" selected="0" zOrder="73" index="19" expanded="1">
+                <_x0028_PagaDeposito_x0029__XmlSimpleType left="19095" top="60239" width="5292" height="2831" selected="0" zOrder="75" index="0" expanded="1" />
+            </PagaDeposito_XmlElement>
+            <Direccion_XmlElement left="13169" top="64570" width="5292" height="847" selected="0" zOrder="77" index="21" expanded="1">
+                <_x0028_Direccion_x0029__XmlSimpleType left="19095" top="63578" width="5292" height="2831" selected="0" zOrder="79" index="0" expanded="1" />
+            </Direccion_XmlElement>
+            <Barrio_XmlElement left="13169" top="67909" width="5292" height="847" selected="0" zOrder="81" index="22" expanded="1">
+                <_x0028_Barrio_x0029__XmlSimpleType left="19095" top="66917" width="5292" height="2831" selected="0" zOrder="83" index="0" expanded="1" />
+            </Barrio_XmlElement>
+            <Acarreo_XmlElement left="13169" top="71248" width="5292" height="847" selected="0" zOrder="85" index="24" expanded="1">
+                <_x0028_Acarreo_x0029__XmlSimpleType left="19095" top="70256" width="5292" height="2831" selected="0" zOrder="87" index="0" expanded="1" />
+            </Acarreo_XmlElement>
+        </Clientes_XmlElement>
+        <DireccionesCliente_XmlElement left="7243" top="76934" width="5292" height="2831" selected="0" zOrder="89" index="1" expanded="1">
+            <CodigoCliente_XmlElement left="13169" top="74587" width="5292" height="847" selected="0" zOrder="91" index="0" expanded="1">
+                <_x0028_CodigoCliente_x0029__XmlSimpleType left="19095" top="73595" width="5292" height="2831" selected="0" zOrder="93" index="0" expanded="1" />
+            </CodigoCliente_XmlElement>
+            <Direccion_XmlElement left="13169" top="77926" width="5292" height="847" selected="0" zOrder="95" index="2" expanded="1">
+                <_x0028_Direccion_x0029__XmlSimpleType left="19095" top="76934" width="5292" height="2831" selected="0" zOrder="97" index="0" expanded="1" />
+            </Direccion_XmlElement>
+            <Barrio_XmlElement left="13169" top="81265" width="5292" height="847" selected="0" zOrder="99" index="3" expanded="1">
+                <_x0028_Barrio_x0029__XmlSimpleType left="19095" top="80273" width="5292" height="2831" selected="0" zOrder="101" index="0" expanded="1" />
+            </Barrio_XmlElement>
+        </DireccionesCliente_XmlElement>
+        <TiposCliente_XmlElement left="7243" top="83612" width="5292" height="2831" selected="0" zOrder="103" index="2" expanded="1">
+            <CodigoTipoCliente_XmlElement left="13169" top="84604" width="5292" height="847" selected="0" zOrder="105" index="0" expanded="1">
+                <_x0028_CodigoTipoCliente_x0029__XmlSimpleType left="19095" top="83612" width="5292" height="2831" selected="0" zOrder="107" index="0" expanded="1" />
+            </CodigoTipoCliente_XmlElement>
+        </TiposCliente_XmlElement>
+        <Talonarios_XmlElement left="7243" top="96968" width="5292" height="2831" selected="0" zOrder="109" index="3" expanded="1">
+            <Inicio_XmlElement left="13169" top="87943" width="5292" height="847" selected="0" zOrder="111" index="1" expanded="1">
+                <_x0028_Inicio_x0029__XmlSimpleType left="19095" top="86951" width="5292" height="2831" selected="0" zOrder="113" index="0" expanded="1" />
+            </Inicio_XmlElement>
+            <Fin_XmlElement left="13169" top="91282" width="5292" height="847" selected="0" zOrder="115" index="2" expanded="1">
+                <_x0028_Fin_x0029__XmlSimpleType left="19095" top="90290" width="5292" height="2831" selected="0" zOrder="117" index="0" expanded="1" />
+            </Fin_XmlElement>
+            <NumeroResolucion_XmlElement left="13169" top="94621" width="5292" height="847" selected="0" zOrder="119" index="3" expanded="1">
+                <_x0028_NumeroResolucion_x0029__XmlSimpleType left="19095" top="93629" width="5292" height="2831" selected="0" zOrder="121" index="0" expanded="1" />
+            </NumeroResolucion_XmlElement>
+            <Actual_XmlElement left="13169" top="97960" width="5292" height="847" selected="0" zOrder="123" index="5" expanded="1">
+                <_x0028_Actual_x0029__XmlSimpleType left="19095" top="96968" width="5292" height="2831" selected="0" zOrder="125" index="0" expanded="1" />
+            </Actual_XmlElement>
+            <Prefijo_XmlElement left="13169" top="101299" width="5292" height="847" selected="0" zOrder="127" index="6" expanded="1">
+                <_x0028_Prefijo_x0029__XmlSimpleType left="19095" top="100307" width="5292" height="2831" selected="0" zOrder="129" index="0" expanded="1" />
+            </Prefijo_XmlElement>
+            <ResolucionDesde_XmlElement left="13169" top="104638" width="5292" height="847" selected="0" zOrder="131" index="9" expanded="1">
+                <_x0028_ResolucionDesde_x0029__XmlSimpleType left="19095" top="103646" width="5292" height="2831" selected="0" zOrder="133" index="0" expanded="1" />
+            </ResolucionDesde_XmlElement>
+            <ResolucionHasta_XmlElement left="13169" top="107977" width="5292" height="847" selected="0" zOrder="135" index="10" expanded="1">
+                <_x0028_ResolucionHasta_x0029__XmlSimpleType left="19095" top="106985" width="5292" height="2831" selected="0" zOrder="137" index="0" expanded="1" />
+            </ResolucionHasta_XmlElement>
+        </Talonarios_XmlElement>
+        <Parametros_XmlElement left="7243" top="155400" width="5292" height="2831" selected="0" zOrder="139" index="4" expanded="1">
+            <CodigoEmpresa_XmlElement left="13169" top="111316" width="5292" height="847" selected="0" zOrder="141" index="0" expanded="1">
+                <_x0028_CodigoEmpresa_x0029__XmlSimpleType left="19095" top="110324" width="5292" height="2831" selected="0" zOrder="143" index="0" expanded="1" />
+            </CodigoEmpresa_XmlElement>
+            <CodigoGrupo_XmlElement left="13169" top="114655" width="5292" height="847" selected="0" zOrder="145" index="1" expanded="1">
+                <_x0028_CodigoGrupo_x0029__XmlSimpleType left="19095" top="113663" width="5292" height="2831" selected="0" zOrder="147" index="0" expanded="1" />
+            </CodigoGrupo_XmlElement>
+            <CodigoSucursal_XmlElement left="13169" top="117994" width="5292" height="847" selected="0" zOrder="149" index="2" expanded="1">
+                <_x0028_CodigoSucursal_x0029__XmlSimpleType left="19095" top="117002" width="5292" height="2831" selected="0" zOrder="151" index="0" expanded="1" />
+            </CodigoSucursal_XmlElement>
+            <RutaPrincipal_XmlElement left="13169" top="121333" width="5292" height="847" selected="0" zOrder="153" index="5" expanded="1">
+                <_x0028_RutaPrincipal_x0029__XmlSimpleType left="19095" top="120341" width="5292" height="2831" selected="0" zOrder="155" index="0" expanded="1" />
+            </RutaPrincipal_XmlElement>
+            <CodigoPuntoVenta_XmlElement left="13169" top="124672" width="5292" height="847" selected="0" zOrder="157" index="6" expanded="1">
+                <_x0028_CodigoPuntoVenta_x0029__XmlSimpleType left="19095" top="123680" width="5292" height="2831" selected="0" zOrder="159" index="0" expanded="1" />
+            </CodigoPuntoVenta_XmlElement>
+            <TipoRuta_XmlElement left="13169" top="128011" width="5292" height="847" selected="0" zOrder="161" index="7" expanded="1">
+                <_x0028_TipoRuta_x0029__XmlSimpleType left="19095" top="127019" width="5292" height="2831" selected="0" zOrder="163" index="0" expanded="1" />
+            </TipoRuta_XmlElement>
+            <CodigoChofer_XmlElement left="13169" top="131350" width="5292" height="847" selected="0" zOrder="165" index="8" expanded="1">
+                <_x0028_CodigoChofer_x0029__XmlSimpleType left="19095" top="130358" width="5292" height="2831" selected="0" zOrder="167" index="0" expanded="1" />
+            </CodigoChofer_XmlElement>
+            <NombreChofer_XmlElement left="13169" top="134689" width="5292" height="847" selected="0" zOrder="169" index="9" expanded="1">
+                <_x0028_NombreChofer_x0029__XmlSimpleType left="19095" top="133697" width="5292" height="2831" selected="0" zOrder="171" index="0" expanded="1" />
+            </NombreChofer_XmlElement>
+            <ClaveChofer_XmlElement left="13169" top="138028" width="5292" height="847" selected="0" zOrder="173" index="10" expanded="1">
+                <_x0028_ClaveChofer_x0029__XmlSimpleType left="19095" top="137036" width="5292" height="2831" selected="0" zOrder="175" index="0" expanded="1" />
+            </ClaveChofer_XmlElement>
+            <MensajeChofer_XmlElement left="13169" top="141367" width="5292" height="847" selected="0" zOrder="177" index="11" expanded="1">
+                <_x0028_MensajeChofer_x0029__XmlSimpleType left="19095" top="140375" width="5292" height="2831" selected="0" zOrder="179" index="0" expanded="1" />
+            </MensajeChofer_XmlElement>
+            <CodigoVehiculo_XmlElement left="13169" top="144706" width="5292" height="847" selected="0" zOrder="181" index="12" expanded="1">
+                <_x0028_CodigoVehiculo_x0029__XmlSimpleType left="19095" top="143714" width="5292" height="2831" selected="0" zOrder="183" index="0" expanded="1" />
+            </CodigoVehiculo_XmlElement>
+            <CodigoTrasportadora_XmlElement left="13169" top="148045" width="5292" height="847" selected="0" zOrder="185" index="13" expanded="1">
+                <_x0028_CodigoTrasportadora_x0029__XmlSimpleType left="19095" top="147053" width="5292" height="2831" selected="0" zOrder="187" index="0" expanded="1" />
+            </CodigoTrasportadora_XmlElement>
+            <NombreEmpresaTrasportadora_XmlElement left="13169" top="151384" width="5292" height="847" selected="0" zOrder="189" index="14" expanded="1">
+                <_x0028_NombreEmpresaTrasportadora_x0029__XmlSimpleType left="19095" top="150392" width="5292" height="2831" selected="0" zOrder="191" index="0" expanded="1" />
+            </NombreEmpresaTrasportadora_XmlElement>
+            <NitTrasportadora_XmlElement left="13169" top="154723" width="5292" height="847" selected="0" zOrder="193" index="15" expanded="1">
+                <_x0028_NitTrasportadora_x0029__XmlSimpleType left="19095" top="153731" width="5292" height="2831" selected="0" zOrder="195" index="0" expanded="1" />
+            </NitTrasportadora_XmlElement>
+            <DireccionTrasportadora_XmlElement left="13169" top="158062" width="5292" height="847" selected="0" zOrder="197" index="16" expanded="1">
+                <_x0028_DireccionTrasportadora_x0029__XmlSimpleType left="19095" top="157070" width="5292" height="2831" selected="0" zOrder="199" index="0" expanded="1" />
+            </DireccionTrasportadora_XmlElement>
+            <ProductoCopago_XmlElement left="13169" top="161401" width="5292" height="847" selected="0" zOrder="201" index="17" expanded="1">
+                <_x0028_ProductoCopago_x0029__XmlSimpleType left="19095" top="160409" width="5292" height="2831" selected="0" zOrder="203" index="0" expanded="1" />
+            </ProductoCopago_XmlElement>
+            <ProductoCuota_XmlElement left="13169" top="164740" width="5292" height="847" selected="0" zOrder="205" index="18" expanded="1">
+                <_x0028_ProductoCuota_x0029__XmlSimpleType left="19095" top="163748" width="5292" height="2831" selected="0" zOrder="207" index="0" expanded="1" />
+            </ProductoCuota_XmlElement>
+            <CotizacionDolar_XmlElement left="13169" top="168079" width="5292" height="847" selected="0" zOrder="209" index="19" expanded="1">
+                <_x0028_CotizacionDolar_x0029__XmlSimpleType left="19095" top="167087" width="5292" height="2831" selected="0" zOrder="211" index="0" expanded="1" />
+            </CotizacionDolar_XmlElement>
+            <NitPraxair_XmlElement left="13169" top="171418" width="5292" height="847" selected="0" zOrder="213" index="20" expanded="1">
+                <_x0028_NitPraxair_x0029__XmlSimpleType left="19095" top="170426" width="5292" height="2831" selected="0" zOrder="215" index="0" expanded="1" />
+            </NitPraxair_XmlElement>
+            <KilometrajeInicial_XmlElement left="13169" top="174757" width="5292" height="847" selected="0" zOrder="217" index="21" expanded="1">
+                <_x0028_KilometrajeInicial_x0029__XmlSimpleType left="19095" top="173765" width="5292" height="2831" selected="0" zOrder="219" index="0" expanded="1" />
+            </KilometrajeInicial_XmlElement>
+            <KilometrajeFinal_XmlElement left="13169" top="178096" width="5292" height="847" selected="0" zOrder="221" index="22" expanded="1">
+                <_x0028_KilometrajeFinal_x0029__XmlSimpleType left="19095" top="177104" width="5292" height="2831" selected="0" zOrder="223" index="0" expanded="1" />
+            </KilometrajeFinal_XmlElement>
+            <NombreSucursal_XmlElement left="13169" top="181435" width="5292" height="847" selected="0" zOrder="225" index="23" expanded="1">
+                <_x0028_NombreSucursal_x0029__XmlSimpleType left="19095" top="180443" width="5292" height="2831" selected="0" zOrder="227" index="0" expanded="1" />
+            </NombreSucursal_XmlElement>
+            <TelefonoTransportador_XmlElement left="13169" top="184774" width="5292" height="847" selected="0" zOrder="229" index="24" expanded="1">
+                <_x0028_TelefonoTransportador_x0029__XmlSimpleType left="19095" top="183782" width="5292" height="2831" selected="0" zOrder="231" index="0" expanded="1" />
+            </TelefonoTransportador_XmlElement>
+            <NoMovimiento_XmlElement left="13169" top="188113" width="5292" height="847" selected="0" zOrder="233" index="25" expanded="1">
+                <_x0028_NoMovimiento_x0029__XmlSimpleType left="19095" top="187121" width="5292" height="2831" selected="0" zOrder="235" index="0" expanded="1" />
+            </NoMovimiento_XmlElement>
+            <VistaRutero_XmlElement left="13169" top="191452" width="5292" height="847" selected="0" zOrder="237" index="26" expanded="1">
+                <_x0028_VistaRutero_x0029__XmlSimpleType left="19095" top="190460" width="5292" height="2831" selected="0" zOrder="239" index="0" expanded="1" />
+            </VistaRutero_XmlElement>
+            <ConsecutivoDepositos_XmlElement left="13169" top="194791" width="5292" height="847" selected="0" zOrder="241" index="27" expanded="1">
+                <_x0028_ConsecutivoDepositos_x0029__XmlSimpleType left="19095" top="193799" width="5292" height="2831" selected="0" zOrder="243" index="0" expanded="1" />
+            </ConsecutivoDepositos_XmlElement>
+            <ConsecutivoAsignaciones_XmlElement left="13169" top="198130" width="5292" height="847" selected="0" zOrder="245" index="28" expanded="1">
+                <_x0028_ConsecutivoAsignaciones_x0029__XmlSimpleType left="19095" top="197138" width="5292" height="2831" selected="0" zOrder="247" index="0" expanded="1" />
+            </ConsecutivoAsignaciones_XmlElement>
+            <ConsecutivoAlquileres_XmlElement left="13169" top="201469" width="5292" height="847" selected="0" zOrder="249" index="29" expanded="1">
+                <_x0028_ConsecutivoAlquileres_x0029__XmlSimpleType left="19095" top="200477" width="5292" height="2831" selected="0" zOrder="251" index="0" expanded="1" />
+            </ConsecutivoAlquileres_XmlElement>
+        </Parametros_XmlElement>
+        <Pedidos_XmlElement left="7243" top="228858" width="5292" height="2831" selected="0" zOrder="253" index="5" expanded="1">
+            <NoPedido_XmlElement left="13169" top="204808" width="5292" height="847" selected="0" zOrder="256" index="0" expanded="1">
+                <_x0028_NoPedido_x0029__XmlSimpleType left="19095" top="203816" width="5292" height="2831" selected="0" zOrder="258" index="0" expanded="1" />
+            </NoPedido_XmlElement>
+            <CodSucursal_XmlElement left="13169" top="208147" width="5292" height="847" selected="0" zOrder="260" index="1" expanded="1">
+                <_x0028_CodSucursal_x0029__XmlSimpleType left="19095" top="207155" width="5292" height="2831" selected="0" zOrder="262" index="0" expanded="1" />
+            </CodSucursal_XmlElement>
+            <CodCliente_XmlElement left="13169" top="211486" width="5292" height="847" selected="0" zOrder="264" index="2" expanded="1">
+                <_x0028_CodCliente_x0029__XmlSimpleType left="19095" top="210494" width="5292" height="2831" selected="0" zOrder="266" index="0" expanded="1" />
+            </CodCliente_XmlElement>
+            <CodEntidad_XmlElement left="13169" top="214825" width="5292" height="847" selected="0" zOrder="268" index="3" expanded="1">
+                <_x0028_CodEntidad_x0029__XmlSimpleType left="19095" top="213833" width="5292" height="2831" selected="0" zOrder="270" index="0" expanded="1" />
+            </CodEntidad_XmlElement>
+            <HoraProgramada_XmlElement left="13169" top="218164" width="5292" height="847" selected="0" zOrder="272" index="6" expanded="1">
+                <_x0028_HoraProgramada_x0029__XmlSimpleType left="19095" top="217172" width="5292" height="2831" selected="0" zOrder="274" index="0" expanded="1" />
+            </HoraProgramada_XmlElement>
+            <HoraAtencion_XmlElement left="13169" top="221503" width="5292" height="847" selected="0" zOrder="276" index="8" expanded="1">
+                <_x0028_HoraAtencion_x0029__XmlSimpleType left="19095" top="220511" width="5292" height="2831" selected="0" zOrder="278" index="0" expanded="1" />
+            </HoraAtencion_XmlElement>
+            <PrimerServicio_XmlElement left="13169" top="224908" width="5292" height="714" selected="0" zOrder="280" index="9" expanded="1">
+                <_x0028_PrimerServicio_x0029__XmlSimpleType left="19095" top="223850" width="5292" height="2831" selected="0" zOrder="283" index="0" expanded="1" />
+            </PrimerServicio_XmlElement>
+            <Recoleccion_XmlElement left="13169" top="228247" width="5292" height="714" selected="0" zOrder="286" index="10" expanded="1">
+                <_x0028_Recoleccion_x0029__XmlSimpleType left="19095" top="227189" width="5292" height="2831" selected="0" zOrder="289" index="0" expanded="1" />
+            </Recoleccion_XmlElement>
+            <Solicito_XmlElement left="13169" top="231586" width="5292" height="714" selected="0" zOrder="292" index="11" expanded="1">
+                <_x0028_Solicito_x0029__XmlSimpleType left="19095" top="230528" width="5292" height="2831" selected="0" zOrder="295" index="0" expanded="1" />
+            </Solicito_XmlElement>
+            <Observacion_XmlElement left="13169" top="234925" width="5292" height="714" selected="0" zOrder="298" index="12" expanded="1">
+                <_x0028_Observacion_x0029__XmlSimpleType left="19095" top="233867" width="5292" height="2831" selected="0" zOrder="301" index="0" expanded="1" />
+            </Observacion_XmlElement>
+            <Estado_XmlElement left="13169" top="238264" width="5292" height="714" selected="0" zOrder="304" index="13" expanded="1">
+                <_x0028_Estado_x0029__XmlSimpleType left="19095" top="237206" width="5292" height="2831" selected="0" zOrder="307" index="0" expanded="1" />
+            </Estado_XmlElement>
+            <MotivoAnulacion_XmlElement left="13169" top="241537" width="5292" height="847" selected="0" zOrder="310" index="14" expanded="1">
+                <_x0028_MotivoAnulacion_x0029__XmlSimpleType left="19095" top="240545" width="5292" height="2831" selected="0" zOrder="312" index="0" expanded="1" />
+            </MotivoAnulacion_XmlElement>
+            <Nuevo_XmlElement left="13169" top="244876" width="5292" height="847" selected="0" zOrder="315" index="15" expanded="1">
+                <_x0028_Nuevo_x0029__XmlSimpleType left="19095" top="243884" width="5292" height="2831" selected="0" zOrder="317" index="0" expanded="1" />
+            </Nuevo_XmlElement>
+            <ActivaTarjeta_XmlElement left="13169" top="248215" width="5292" height="847" selected="0" zOrder="319" index="16" expanded="1">
+                <_x0028_ActivaTarjeta_x0029__XmlSimpleType left="19095" top="247223" width="5292" height="2831" selected="0" zOrder="321" index="0" expanded="1" />
+            </ActivaTarjeta_XmlElement>
+            <Direccion_XmlElement left="13169" top="251554" width="5292" height="847" selected="0" zOrder="323" index="17" expanded="1">
+                <_x0028_Direccion_x0029__XmlSimpleType left="19095" top="250562" width="5292" height="2831" selected="0" zOrder="325" index="0" expanded="1" />
+            </Direccion_XmlElement>
+            <Barrio_XmlElement left="13169" top="254893" width="5292" height="847" selected="0" zOrder="327" index="18" expanded="1">
+                <_x0028_Barrio_x0029__XmlSimpleType left="19095" top="253901" width="5292" height="2831" selected="0" zOrder="329" index="0" expanded="1" />
+            </Barrio_XmlElement>
+        </Pedidos_XmlElement>
+        <Entidades_XmlElement left="7243" top="258909" width="5292" height="2831" selected="0" zOrder="331" index="6" expanded="1">
+            <Codigo_XmlElement left="13169" top="258232" width="5292" height="847" selected="0" zOrder="333" index="0" expanded="1">
+                <_x0028_Codigo_x0029__XmlSimpleType left="19095" top="257240" width="5292" height="2831" selected="0" zOrder="335" index="0" expanded="1" />
+            </Codigo_XmlElement>
+            <Nombre_XmlElement left="13169" top="261571" width="5292" height="847" selected="0" zOrder="337" index="1" expanded="1">
+                <_x0028_Nombre_x0029__XmlSimpleType left="19095" top="260579" width="5292" height="2831" selected="0" zOrder="339" index="0" expanded="1" />
+            </Nombre_XmlElement>
+        </Entidades_XmlElement>
+        <TiposPago_XmlElement left="7243" top="265587" width="5292" height="2831" selected="0" zOrder="341" index="7" expanded="1">
+            <CodTipoPago_XmlElement left="13169" top="264910" width="5292" height="847" selected="0" zOrder="343" index="0" expanded="1">
+                <_x0028_CodTipoPago_x0029__XmlSimpleType left="19095" top="263918" width="5292" height="2831" selected="0" zOrder="345" index="0" expanded="1" />
+            </CodTipoPago_XmlElement>
+            <Descripcion_XmlElement left="13169" top="268249" width="5292" height="847" selected="0" zOrder="347" index="1" expanded="1">
+                <_x0028_Descripcion_x0029__XmlSimpleType left="19095" top="267257" width="5292" height="2831" selected="0" zOrder="349" index="0" expanded="1" />
+            </Descripcion_XmlElement>
+        </TiposPago_XmlElement>
+        <MaestroGuias_XmlElement left="7243" top="273935" width="5292" height="2831" selected="0" zOrder="351" index="8" expanded="1">
+            <NoMovimiento_XmlElement left="13169" top="271588" width="5292" height="847" selected="0" zOrder="353" index="0" expanded="1">
+                <_x0028_NoMovimiento_x0029__XmlSimpleType left="19095" top="270596" width="5292" height="2831" selected="0" zOrder="355" index="0" expanded="1" />
+            </NoMovimiento_XmlElement>
+            <TipoDocumento_XmlElement left="13169" top="274927" width="5292" height="847" selected="0" zOrder="357" index="1" expanded="1">
+                <_x0028_TipoDocumento_x0029__XmlSimpleType left="19095" top="273935" width="5292" height="2831" selected="0" zOrder="359" index="0" expanded="1" />
+            </TipoDocumento_XmlElement>
+            <NoFactura_XmlElement left="13169" top="278266" width="5292" height="847" selected="0" zOrder="361" index="2" expanded="1">
+                <_x0028_NoFactura_x0029__XmlSimpleType left="19095" top="277274" width="5292" height="2831" selected="0" zOrder="363" index="0" expanded="1" />
+            </NoFactura_XmlElement>
+        </MaestroGuias_XmlElement>
+    </NucleoDataSet_XmlElement>
+</XSDDesignerLayout>

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oxigenos.Principal", "Oxigenos.Nucleo\Oxigenos.Principal.vbproj", "{072965B6-3013-4EC0-85DC-B4973421E001}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oxigenos.Gases", "Oxigenos.Gases\Oxigenos.Gases.vbproj", "{98933D63-1EEF-4E85-8179-9758F89C82FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oxigenos.Common", "Oxigenos.Shared\Oxigenos.Common.vbproj", "{76A418BF-DD42-487F-A520-B907CE1326DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraxairComunicaciones", "comunicaicones\PraxairComunicaciones.csproj", "{F6310CCC-1E17-4E23-8032-43433B463A43}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oxigenos.Liquidos", "Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj", "{B51B1E06-F9AA-4255-91E3-589FF06CE84F}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SetupOxigenos", "SetupOxigenos\SetupOxigenos.vddproj", "{707EF5EA-B49F-4903-88A0-EFE537EC5345}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oxigenos.EncuestaNiso", "Oxigenos.EncuestaNiso\Oxigenos.EncuestaNiso.vbproj", "{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072965B6-3013-4EC0-85DC-B4973421E001}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{98933D63-1EEF-4E85-8179-9758F89C82FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98933D63-1EEF-4E85-8179-9758F89C82FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98933D63-1EEF-4E85-8179-9758F89C82FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98933D63-1EEF-4E85-8179-9758F89C82FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A418BF-DD42-487F-A520-B907CE1326DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A418BF-DD42-487F-A520-B907CE1326DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A418BF-DD42-487F-A520-B907CE1326DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A418BF-DD42-487F-A520-B907CE1326DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6310CCC-1E17-4E23-8032-43433B463A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6310CCC-1E17-4E23-8032-43433B463A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6310CCC-1E17-4E23-8032-43433B463A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6310CCC-1E17-4E23-8032-43433B463A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51B1E06-F9AA-4255-91E3-589FF06CE84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51B1E06-F9AA-4255-91E3-589FF06CE84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51B1E06-F9AA-4255-91E3-589FF06CE84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51B1E06-F9AA-4255-91E3-589FF06CE84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707EF5EA-B49F-4903-88A0-EFE537EC5345}.Debug|Any CPU.ActiveCfg = Debug
+		{707EF5EA-B49F-4903-88A0-EFE537EC5345}.Debug|Any CPU.Build.0 = Debug
+		{707EF5EA-B49F-4903-88A0-EFE537EC5345}.Debug|Any CPU.Deploy.0 = Debug
+		{707EF5EA-B49F-4903-88A0-EFE537EC5345}.Release|Any CPU.ActiveCfg = Release
+		{707EF5EA-B49F-4903-88A0-EFE537EC5345}.Release|Any CPU.Build.0 = Release
+		{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C7C94E-E3B3-420C-A8B0-788CC2AEDEDD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

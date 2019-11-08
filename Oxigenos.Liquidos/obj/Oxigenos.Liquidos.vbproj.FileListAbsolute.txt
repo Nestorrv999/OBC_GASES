@@ -1,0 +1,392 @@
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Liquidos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Oxigenos.Liquidos.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.GestorProductos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.GestorVenta.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.ReportesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Release\Oxigenos.Liquidos.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Liquidos.sdf
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorCaudalimetroForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaCamionForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorNivelesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorHojasRutas.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorProductos.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GestorVenta.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.FinRutaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.GeneracionForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.InicioRutaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.PrecintosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.ReportesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.VentaPorPesadaTanqueForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\obj\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Liquidos\bin\Debug\Oxigenos.Common.pdb

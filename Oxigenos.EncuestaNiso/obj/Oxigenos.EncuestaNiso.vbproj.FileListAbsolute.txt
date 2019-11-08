@@ -1,0 +1,84 @@
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Release\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Release\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Release\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.Form1.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Release\Oxigenos.EncuestaNiso.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb

@@ -1,0 +1,559 @@
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.Gases.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\System.Windows.Forms.DataGrid.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Release\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.CargueCamionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.ContratosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorPacientes.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorVenta.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.DeudasForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.FinRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.BarcodeParser.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GestorProductos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.GeneracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.InicioRutaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.ReportesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.VentaForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.VentaManualForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Release\Oxigenos.Gases.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.sdf
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\System.Windows.Forms.DataGrid.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BuscarProductoForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignaDocumentoManualForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CapturaEntidadForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.CargueCamionForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ContratosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.AsignacionManualForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorAtencionPedidos.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuiaCarga.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorGuia_Documento.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPacientes.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorVenta.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DeudasForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.FinRutaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesManualesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.BarcodeParser.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorPedidos.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GestorProductos.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.PrecioProductoForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.DocumentosManualesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.GeneracionForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.RecoleccionesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.InicioRutaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.LecturaCilindrosVentaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ReportesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenCargaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.ResumenDetalleGenerar.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VentaManualForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.VerAsignacionesForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\obj\Debug\Oxigenos.Gases.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Gases\bin\Debug\Oxigenos.Common.pdb

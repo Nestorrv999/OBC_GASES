@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BarcodeDataSet" targetNamespace="http://tempuri.org/BarcodeDataSet.xsd" xmlns:mstns="http://tempuri.org/BarcodeDataSet.xsd" xmlns="http://tempuri.org/BarcodeDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BarcodeDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="BarcodeDataSet" msprop:Generator_DataSetName="BarcodeDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CodigoBarras" msprop:Generator_UserTableName="CodigoBarras" msprop:Generator_RowDeletedName="CodigoBarrasRowDeleted" msprop:Generator_RowChangedName="CodigoBarrasRowChanged" msprop:Generator_RowClassName="CodigoBarrasRow" msprop:Generator_RowChangingName="CodigoBarrasRowChanging" msprop:Generator_RowEvArgName="CodigoBarrasRowChangeEvent" msprop:Generator_RowEvHandlerName="CodigoBarrasRowChangeEventHandler" msprop:Generator_TableClassName="CodigoBarrasDataTable" msprop:Generator_TableVarName="tableCodigoBarras" msprop:Generator_RowDeletingName="CodigoBarrasRowDeleting" msprop:Generator_TablePropName="CodigoBarras">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInTable="IdColumn" type="xs:short" />
+              <xs:element name="Descripcion" msprop:Generator_UserColumnName="Descripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Simbologia" msprop:Generator_UserColumnName="Simbologia" msprop:Generator_ColumnPropNameInRow="Simbologia" msprop:Generator_ColumnVarNameInTable="columnSimbologia" msprop:Generator_ColumnPropNameInTable="SimbologiaColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Longitud" msprop:Generator_UserColumnName="Longitud" msprop:Generator_ColumnPropNameInRow="Longitud" msprop:Generator_ColumnVarNameInTable="columnLongitud" msprop:Generator_ColumnPropNameInTable="LongitudColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Prefijo" msprop:Generator_UserColumnName="Prefijo" msprop:Generator_ColumnPropNameInRow="Prefijo" msprop:Generator_ColumnVarNameInTable="columnPrefijo" msprop:Generator_ColumnPropNameInTable="PrefijoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sufijo" msprop:Generator_UserColumnName="Sufijo" msprop:Generator_ColumnPropNameInRow="Sufijo" msprop:Generator_ColumnVarNameInTable="columnSufijo" msprop:Generator_ColumnPropNameInTable="SufijoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EsNumerico" msprop:Generator_UserColumnName="EsNumerico" msprop:Generator_ColumnPropNameInRow="EsNumerico" msprop:Generator_ColumnVarNameInTable="columnEsNumerico" msprop:Generator_ColumnPropNameInTable="EsNumericoColumn" type="xs:unsignedByte" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CamposCodigoBarras" msprop:Generator_UserTableName="CamposCodigoBarras" msprop:Generator_RowDeletedName="CamposCodigoBarrasRowDeleted" msprop:Generator_RowChangedName="CamposCodigoBarrasRowChanged" msprop:Generator_RowClassName="CamposCodigoBarrasRow" msprop:Generator_RowChangingName="CamposCodigoBarrasRowChanging" msprop:Generator_RowEvArgName="CamposCodigoBarrasRowChangeEvent" msprop:Generator_RowEvHandlerName="CamposCodigoBarrasRowChangeEventHandler" msprop:Generator_TableClassName="CamposCodigoBarrasDataTable" msprop:Generator_TableVarName="tableCamposCodigoBarras" msprop:Generator_RowDeletingName="CamposCodigoBarrasRowDeleting" msprop:Generator_TablePropName="CamposCodigoBarras">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdCodigoBarras" msprop:Generator_UserColumnName="IdCodigoBarras" msprop:Generator_ColumnPropNameInRow="IdCodigoBarras" msprop:Generator_ColumnVarNameInTable="columnIdCodigoBarras" msprop:Generator_ColumnPropNameInTable="IdCodigoBarrasColumn" type="xs:short" />
+              <xs:element name="IdCampo" msprop:Generator_UserColumnName="IdCampo" msprop:Generator_ColumnPropNameInRow="IdCampo" msprop:Generator_ColumnVarNameInTable="columnIdCampo" msprop:Generator_ColumnPropNameInTable="IdCampoColumn" type="xs:short" />
+              <xs:element name="PosIni" msprop:Generator_UserColumnName="PosIni" msprop:Generator_ColumnPropNameInRow="PosIni" msprop:Generator_ColumnVarNameInTable="columnPosIni" msprop:Generator_ColumnPropNameInTable="PosIniColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="PosFin" msprop:Generator_UserColumnName="PosFin" msprop:Generator_ColumnPropNameInRow="PosFin" msprop:Generator_ColumnVarNameInTable="columnPosFin" msprop:Generator_ColumnPropNameInTable="PosFinColumn" type="xs:short" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CodigoBarras" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+    <xs:unique name="CamposCodigoBarras_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CamposCodigoBarras" />
+      <xs:field xpath="mstns:IdCodigoBarras" />
+      <xs:field xpath="mstns:IdCampo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

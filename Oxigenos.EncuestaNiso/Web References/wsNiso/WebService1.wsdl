@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ActualizarEstadoRegistro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="estado" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="usrid" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarEstadoRegistroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarEstadoRegistroResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarGestion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="gestionRealizada" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="aplicaSqr" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="IdSqr" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="usrId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarGestionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarGestionResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ActualizarPregunta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rst" type="tns:Respuesta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Respuesta">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="CODI_CLI" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ID_PREGUNTA" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ID_RESPUESTA" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="FECHA_RESPUESTA" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="CORREO_ELECTRONICO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TELEFONO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NOMBRE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ESTADO_REGISTRO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="USRID_GESTION" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FECHA_GESTION" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="ID_ORIGEN" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="GestionRealizada" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ActualizarPreguntaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ActualizarPreguntaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlmacenarPregunta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rst" type="tns:Respuesta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AlmacenarPreguntaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AlmacenarPreguntaResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarMail">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="to" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mensaje" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarMailResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnviarMailResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCliente">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodigoCliente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetClienteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetClienteResult">
+              <s:complexType>
+                <s:annotation>
+                  <s:appinfo>
+                    <ActualType Name="DataSet" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+                  </s:appinfo>
+                </s:annotation>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetClienteOtro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodigoCliente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetClienteOtroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetClienteOtroResult">
+              <s:complexType>
+                <s:annotation>
+                  <s:appinfo>
+                    <ActualType Name="DataSet" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+                  </s:appinfo>
+                </s:annotation>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetEstadosRegistros">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetEstadosRegistrosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetEstadosRegistrosResult" type="tns:ArrayOfEstadoRegistro" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfEstadoRegistro">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="EstadoRegistro" nillable="true" type="tns:EstadoRegistro" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EstadoRegistro">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="id_estado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="descripcion" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetOrigenes">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetOrigenesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOrigenesResult" type="tns:ArrayOfOrigen" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfOrigen">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Origen" nillable="true" type="tns:Origen" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Origen">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ID_ORIGEN" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="NOMBRE" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetPreguntas">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetPreguntasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPreguntasResult" type="tns:ArrayOfPregunta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPregunta">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Pregunta" nillable="true" type="tns:Pregunta" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Pregunta">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ID_PREGUNTA" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="DESCRIPCION" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetRespuestas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="fechaIni" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="FechaFin" type="s:dateTime" />
+            <s:element minOccurs="0" maxOccurs="1" name="estado" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetRespuestasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetRespuestasResult">
+              <s:complexType>
+                <s:annotation>
+                  <s:appinfo>
+                    <ActualType Name="DataSet" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+                  </s:appinfo>
+                </s:annotation>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSeguimiento">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSeguimientoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSeguimientoResult">
+              <s:complexType>
+                <s:annotation>
+                  <s:appinfo>
+                    <ActualType Name="DataSet" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+                  </s:appinfo>
+                </s:annotation>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTipoRespuestas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="preg" type="tns:Pregunta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTipoRespuestasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTipoRespuestasResult" type="tns:ArrayOfRespuesta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfRespuesta">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Respuesta" nillable="true" type="tns:Respuesta" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ActualizarEstadoRegistroSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarEstadoRegistro" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarEstadoRegistroSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarEstadoRegistroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarGestionSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarGestion" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarGestionSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarGestionResponse" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarPreguntaSoapIn">
+    <wsdl:part name="parameters" element="tns:ActualizarPregunta" />
+  </wsdl:message>
+  <wsdl:message name="ActualizarPreguntaSoapOut">
+    <wsdl:part name="parameters" element="tns:ActualizarPreguntaResponse" />
+  </wsdl:message>
+  <wsdl:message name="AlmacenarPreguntaSoapIn">
+    <wsdl:part name="parameters" element="tns:AlmacenarPregunta" />
+  </wsdl:message>
+  <wsdl:message name="AlmacenarPreguntaSoapOut">
+    <wsdl:part name="parameters" element="tns:AlmacenarPreguntaResponse" />
+  </wsdl:message>
+  <wsdl:message name="EnviarMailSoapIn">
+    <wsdl:part name="parameters" element="tns:EnviarMail" />
+  </wsdl:message>
+  <wsdl:message name="EnviarMailSoapOut">
+    <wsdl:part name="parameters" element="tns:EnviarMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetClienteSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCliente" />
+  </wsdl:message>
+  <wsdl:message name="GetClienteSoapOut">
+    <wsdl:part name="parameters" element="tns:GetClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetClienteOtroSoapIn">
+    <wsdl:part name="parameters" element="tns:GetClienteOtro" />
+  </wsdl:message>
+  <wsdl:message name="GetClienteOtroSoapOut">
+    <wsdl:part name="parameters" element="tns:GetClienteOtroResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetEstadosRegistrosSoapIn">
+    <wsdl:part name="parameters" element="tns:GetEstadosRegistros" />
+  </wsdl:message>
+  <wsdl:message name="GetEstadosRegistrosSoapOut">
+    <wsdl:part name="parameters" element="tns:GetEstadosRegistrosResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOrigenesSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOrigenes" />
+  </wsdl:message>
+  <wsdl:message name="GetOrigenesSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOrigenesResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPreguntasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPreguntas" />
+  </wsdl:message>
+  <wsdl:message name="GetPreguntasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPreguntasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetRespuestasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetRespuestas" />
+  </wsdl:message>
+  <wsdl:message name="GetRespuestasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetRespuestasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSeguimientoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSeguimiento" />
+  </wsdl:message>
+  <wsdl:message name="GetSeguimientoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSeguimientoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTipoRespuestasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTipoRespuestas" />
+  </wsdl:message>
+  <wsdl:message name="GetTipoRespuestasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTipoRespuestasResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebService1Soap">
+    <wsdl:operation name="ActualizarEstadoRegistro">
+      <wsdl:input message="tns:ActualizarEstadoRegistroSoapIn" />
+      <wsdl:output message="tns:ActualizarEstadoRegistroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarGestion">
+      <wsdl:input message="tns:ActualizarGestionSoapIn" />
+      <wsdl:output message="tns:ActualizarGestionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarPregunta">
+      <wsdl:input message="tns:ActualizarPreguntaSoapIn" />
+      <wsdl:output message="tns:ActualizarPreguntaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AlmacenarPregunta">
+      <wsdl:input message="tns:AlmacenarPreguntaSoapIn" />
+      <wsdl:output message="tns:AlmacenarPreguntaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMail">
+      <wsdl:input message="tns:EnviarMailSoapIn" />
+      <wsdl:output message="tns:EnviarMailSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCliente">
+      <wsdl:input message="tns:GetClienteSoapIn" />
+      <wsdl:output message="tns:GetClienteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetClienteOtro">
+      <wsdl:input message="tns:GetClienteOtroSoapIn" />
+      <wsdl:output message="tns:GetClienteOtroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEstadosRegistros">
+      <wsdl:input message="tns:GetEstadosRegistrosSoapIn" />
+      <wsdl:output message="tns:GetEstadosRegistrosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOrigenes">
+      <wsdl:input message="tns:GetOrigenesSoapIn" />
+      <wsdl:output message="tns:GetOrigenesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPreguntas">
+      <wsdl:input message="tns:GetPreguntasSoapIn" />
+      <wsdl:output message="tns:GetPreguntasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRespuestas">
+      <wsdl:input message="tns:GetRespuestasSoapIn" />
+      <wsdl:output message="tns:GetRespuestasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSeguimiento">
+      <wsdl:input message="tns:GetSeguimientoSoapIn" />
+      <wsdl:output message="tns:GetSeguimientoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTipoRespuestas">
+      <wsdl:input message="tns:GetTipoRespuestasSoapIn" />
+      <wsdl:output message="tns:GetTipoRespuestasSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebService1Soap" type="tns:WebService1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ActualizarEstadoRegistro">
+      <soap:operation soapAction="http://tempuri.org/ActualizarEstadoRegistro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarGestion">
+      <soap:operation soapAction="http://tempuri.org/ActualizarGestion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarPregunta">
+      <soap:operation soapAction="http://tempuri.org/ActualizarPregunta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlmacenarPregunta">
+      <soap:operation soapAction="http://tempuri.org/AlmacenarPregunta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMail">
+      <soap:operation soapAction="http://tempuri.org/EnviarMail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCliente">
+      <soap:operation soapAction="http://tempuri.org/GetCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetClienteOtro">
+      <soap:operation soapAction="http://tempuri.org/GetClienteOtro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEstadosRegistros">
+      <soap:operation soapAction="http://tempuri.org/GetEstadosRegistros" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOrigenes">
+      <soap:operation soapAction="http://tempuri.org/GetOrigenes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPreguntas">
+      <soap:operation soapAction="http://tempuri.org/GetPreguntas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRespuestas">
+      <soap:operation soapAction="http://tempuri.org/GetRespuestas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSeguimiento">
+      <soap:operation soapAction="http://tempuri.org/GetSeguimiento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTipoRespuestas">
+      <soap:operation soapAction="http://tempuri.org/GetTipoRespuestas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebService1Soap12" type="tns:WebService1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ActualizarEstadoRegistro">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarEstadoRegistro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarGestion">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarGestion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ActualizarPregunta">
+      <soap12:operation soapAction="http://tempuri.org/ActualizarPregunta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AlmacenarPregunta">
+      <soap12:operation soapAction="http://tempuri.org/AlmacenarPregunta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarMail">
+      <soap12:operation soapAction="http://tempuri.org/EnviarMail" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCliente">
+      <soap12:operation soapAction="http://tempuri.org/GetCliente" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetClienteOtro">
+      <soap12:operation soapAction="http://tempuri.org/GetClienteOtro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEstadosRegistros">
+      <soap12:operation soapAction="http://tempuri.org/GetEstadosRegistros" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOrigenes">
+      <soap12:operation soapAction="http://tempuri.org/GetOrigenes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPreguntas">
+      <soap12:operation soapAction="http://tempuri.org/GetPreguntas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRespuestas">
+      <soap12:operation soapAction="http://tempuri.org/GetRespuestas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSeguimiento">
+      <soap12:operation soapAction="http://tempuri.org/GetSeguimiento" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTipoRespuestas">
+      <soap12:operation soapAction="http://tempuri.org/GetTipoRespuestas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebService1">
+    <wsdl:port name="WebService1Soap" binding="tns:WebService1Soap">
+      <soap:address location="http://201.234.244.37/WsNiso/WebService1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebService1Soap12" binding="tns:WebService1Soap12">
+      <soap12:address location="http://201.234.244.37/WsNiso/WebService1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

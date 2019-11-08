@@ -1,0 +1,286 @@
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Fuentes\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\PraxairComunicaciones.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\PraxairComunicaciones.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.Data.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\icsharpcode.sharpziplib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Net.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\Microsoft.WindowsCE.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlClient.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlServerCe.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlClient.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.pdb
+C:\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\icsharpcode.sharpziplib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Net.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlServerCe.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\bin\Release\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\comunicaicones\obj\Release\PraxairComunicaciones.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\ESTE SI ES\Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\ESTE SI ES\Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb

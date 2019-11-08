@@ -1,0 +1,652 @@
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Liquidos.sdf
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\DatosContribuyente.txt
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Principal.exe.config
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Principal.exe
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Nucleo.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\DatascanCF.Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.IO.Serial.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.Net.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.VisualBasic.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Gases.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Liquidos.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\PraxairComunicaciones.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Symbol.Barcode.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Symbol.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\PraxairComunicaciones.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Liquidos.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Gases.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Release\Oxigenos.Gases.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.CargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.GestorCarga.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.GestorListaQueries.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.MainForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.RuteroForm.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Principal.exe
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Release\Oxigenos.Nucleo.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.sdf
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Liquidos.sdf
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\DatosContribuyente.txt
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe.config
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.exe
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Principal.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Nucleo.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Net.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.VisualBasic.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.Barcode.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Symbol.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\PraxairComunicaciones.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Liquidos.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Gases.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarClienteForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.CargaDatosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.BuscarPedidoForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorAnulacionPedidos.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorCarga.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.GestorListaQueries.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DescargaDatosForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.DireccionesClienteForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.InformacionClienteForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.ConfiguracionForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.NucleoDataAccess.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.AtencionPedidoForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.MainForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.PedidosClienteForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.RuteroForm.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.SolAnulacionPedido.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.exe
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Nucleo.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\obj\Debug\Oxigenos.Principal.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Nucleo\bin\Debug\Oxigenos.Common.pdb

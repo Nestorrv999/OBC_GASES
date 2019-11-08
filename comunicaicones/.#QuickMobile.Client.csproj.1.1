@@ -1,0 +1,179 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6310CCC-1E17-4E23-8032-43433B463A43}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuickMobile.Client</RootNamespace>
+    <AssemblyName>QuickMobile.Client</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <OSVersion>5.01</OSVersion>
+    <DeployDirSuffix>QuickMobile.Client</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <StartupObject>QuickMobile.Client.Program</StartupObject>
+    <SccProjectName>LineaDatascan/LibreriasMovilidad/Codigo/Librerias/Librerias/QuickMobile.Client</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:PushOk CVSSCC NT</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;PocketPC</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;PocketPC</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatascanCF.Windows.Forms" />
+    <Reference Include="ICSharpCode.SharpZipLib" />
+    <Reference Include="mscorlib" />
+    <Reference Include="OpenNETCF" />
+    <Reference Include="OpenNETCF.Drawing" />
+    <Reference Include="OpenNETCF.Net" />
+    <Reference Include="OpenNETCF.Windows.Forms" />
+    <Reference Include="OpenNETCF.WindowsCE" />
+    <Reference Include="OpenNETCF.WindowsCE.Messaging" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comunicacion\CargaDatosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunicacion\CargaDatosForm.Designer.cs">
+      <DependentUpon>CargaDatosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comunicacion\ConfiguracionServidorWS.cs" />
+    <Compile Include="Comunicacion\GPRS.cs" />
+    <Compile Include="Comunicacion\ParametrosWS.cs" />
+    <Compile Include="Comunicacion\DescargarDatosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunicacion\DescargarDatosForm.Designer.cs">
+      <DependentUpon>DescargarDatosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPruebacomunicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPruebacomunicacion.Designer.cs">
+      <DependentUpon>frmPruebacomunicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nucleo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Comunicacion\CargaDatosForm.resx">
+      <DependentUpon>CargaDatosForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunicacion\DescargarDatosForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DescargarDatosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPruebacomunicacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPruebacomunicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WSComunicaciones\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost/WSComunicaciones/DataAccess.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\WSComunicaciones\</RelPath>
+      <UpdateFromURL>http://localhost/WSComunicaciones/DataAccess.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\WSComunicaciones\DataAccess.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\WSComunicaciones\DataAccess.disco" />
+    <None Include="Web References\WSComunicaciones\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatascanCF.Data\DatascanCF.Data.csproj">
+      <Project>{F204265B-395B-4114-8E44-4450387882F4}</Project>
+      <Name>DatascanCF.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DatascanCF\DatascanCF.csproj">
+      <Project>{6D7E45FD-0ED4-4D4F-962A-C73DC2DD09B2}</Project>
+      <Name>DatascanCF</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Imagenes\AnimateCtl1.Image.jpg" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,238 @@
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Fuentes\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Praxair\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colejau1\Proyectos\Oxigenos.V1.99.BK.20171219\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\Oxigenos.Shared.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\DatascanCF.Data.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\DatascanCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.WindowsCE.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.Drawing.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\DatascanCF.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\Microsoft.WindowsCE.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\System.Data.SqlClient.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.Configuration.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\OpenNETCF.Windows.Forms.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Release\System.Data.SqlClient.xml
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Release\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Release\Oxigenos.Common.Resources.resources
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Release\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Release\Oxigenos.Common.dll
+C:\Users\OBC\Desktop\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Release\Oxigenos.Shared.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Users\colener1\Documents\Oxigenos\ULTIMA VERSION\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Documents and Settings\coltmir1\Escritorio\OxigenosOBC\Oxigenos\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\ESTE SI ES\Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Data.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\DatascanCF.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\System.Data.SqlClient.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+C:\Users\colener1\Documents\Nestor Rodriguez\Documentos\OBC PRAXAIR\Fuentes OBC Oxigenos\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb

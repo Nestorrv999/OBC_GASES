@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el Diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout Style="LeftRight" layoutVersion="2" viewPortLeft="3406" viewPortTop="36385" zoom="100">
+    <PedidosDataSet_XmlElement left="158" top="439" width="5292" height="2831" selected="0" zOrder="1" index="0" expanded="1">
+        <TipoProductos_XmlElement left="6084" top="-40463" width="5292" height="2831" selected="0" zOrder="39" index="0" expanded="1">
+            <Codigo_XmlElement left="12010" top="-41074" width="5292" height="847" selected="0" zOrder="41" index="0" expanded="1">
+                <_x0028_Codigo_x0029__XmlSimpleType left="17936" top="-42132" width="5292" height="2831" selected="0" zOrder="43" index="0" expanded="1" />
+            </Codigo_XmlElement>
+            <Descripcion_XmlElement left="12010" top="-37735" width="5292" height="847" selected="0" zOrder="45" index="1" expanded="1">
+                <_x0028_Descripcion_x0029__XmlSimpleType left="17936" top="-38793" width="5292" height="2831" selected="0" zOrder="47" index="0" expanded="1" />
+            </Descripcion_XmlElement>
+        </TipoProductos_XmlElement>
+        <Pedidos_XmlElement left="6084" top="-10412" width="5292" height="2831" selected="0" zOrder="2" index="1" expanded="1">
+            <NoPedido_XmlElement left="12010" top="-34396" width="5292" height="847" selected="0" zOrder="49" index="0" expanded="1">
+                <_x0028_NoPedido_x0029__XmlSimpleType left="17936" top="-35454" width="5292" height="2831" selected="0" zOrder="51" index="0" expanded="1" />
+            </NoPedido_XmlElement>
+            <CodSucursal_XmlElement left="12010" top="-31057" width="5292" height="847" selected="0" zOrder="53" index="1" expanded="1">
+                <_x0028_CodSucursal_x0029__XmlSimpleType left="17936" top="-32115" width="5292" height="2831" selected="0" zOrder="55" index="0" expanded="1" />
+            </CodSucursal_XmlElement>
+            <CodCliente_XmlElement left="12010" top="-27718" width="5292" height="847" selected="0" zOrder="57" index="2" expanded="1">
+                <_x0028_CodCliente_x0029__XmlSimpleType left="17936" top="-28776" width="5292" height="2831" selected="0" zOrder="59" index="0" expanded="1" />
+            </CodCliente_XmlElement>
+            <CodEntidad_XmlElement left="12010" top="-24379" width="5292" height="847" selected="0" zOrder="61" index="3" expanded="1">
+                <_x0028_CodEntidad_x0029__XmlSimpleType left="17936" top="-25437" width="5292" height="2831" selected="0" zOrder="63" index="0" expanded="1" />
+            </CodEntidad_XmlElement>
+            <HoraProgramada_XmlElement left="12010" top="-21040" width="5292" height="847" selected="0" zOrder="65" index="6" expanded="1">
+                <_x0028_HoraProgramada_x0029__XmlSimpleType left="17936" top="-22098" width="5292" height="2831" selected="0" zOrder="67" index="0" expanded="1" />
+            </HoraProgramada_XmlElement>
+            <HoraAtencion_XmlElement left="12010" top="-17701" width="5292" height="847" selected="0" zOrder="69" index="8" expanded="1">
+                <_x0028_HoraAtencion_x0029__XmlSimpleType left="17936" top="-18759" width="5292" height="2831" selected="0" zOrder="71" index="0" expanded="1" />
+            </HoraAtencion_XmlElement>
+            <PrimerServicio_XmlElement left="12010" top="-14362" width="5292" height="847" selected="0" zOrder="73" index="9" expanded="1">
+                <_x0028_PrimerServicio_x0029__XmlSimpleType left="17936" top="-15420" width="5292" height="2831" selected="0" zOrder="75" index="0" expanded="1" />
+            </PrimerServicio_XmlElement>
+            <Recoleccion_XmlElement left="12010" top="-11023" width="5292" height="847" selected="0" zOrder="77" index="10" expanded="1">
+                <_x0028_Recoleccion_x0029__XmlSimpleType left="17936" top="-12081" width="5292" height="2831" selected="0" zOrder="79" index="0" expanded="1" />
+            </Recoleccion_XmlElement>
+            <Solicito_XmlElement left="12010" top="-7684" width="5292" height="847" selected="0" zOrder="81" index="11" expanded="1">
+                <_x0028_Solicito_x0029__XmlSimpleType left="17936" top="-8742" width="5292" height="2831" selected="0" zOrder="83" index="0" expanded="1" />
+            </Solicito_XmlElement>
+            <Observacion_XmlElement left="12010" top="-4345" width="5292" height="847" selected="0" zOrder="85" index="12" expanded="1">
+                <_x0028_Observacion_x0029__XmlSimpleType left="17936" top="-5403" width="5292" height="2831" selected="0" zOrder="87" index="0" expanded="1" />
+            </Observacion_XmlElement>
+            <Estado_XmlElement left="12010" top="-1006" width="5292" height="847" selected="0" zOrder="4" index="13" expanded="1">
+                <_x0028_Estado_x0029__XmlSimpleType left="17936" top="-2064" width="5292" height="2831" selected="0" zOrder="6" index="0" expanded="1" />
+            </Estado_XmlElement>
+            <MotivoAnulacion_XmlElement left="12010" top="2333" width="5292" height="714" selected="0" zOrder="9" index="14" expanded="1">
+                <_x0028_MotivoAnulacion_x0029__XmlSimpleType left="17936" top="1275" width="5292" height="2831" selected="0" zOrder="12" index="0" expanded="1" />
+            </MotivoAnulacion_XmlElement>
+            <Nuevo_XmlElement left="12010" top="5672" width="5292" height="714" selected="0" zOrder="15" index="15" expanded="1">
+                <_x0028_Nuevo_x0029__XmlSimpleType left="17936" top="4614" width="5292" height="2831" selected="0" zOrder="18" index="0" expanded="1" />
+            </Nuevo_XmlElement>
+            <ActivaTarjeta_XmlElement left="12010" top="9011" width="5292" height="714" selected="0" zOrder="21" index="16" expanded="1">
+                <_x0028_ActivaTarjeta_x0029__XmlSimpleType left="17936" top="7953" width="5292" height="2831" selected="0" zOrder="24" index="0" expanded="1" />
+            </ActivaTarjeta_XmlElement>
+            <Direccion_XmlElement left="12010" top="12350" width="5292" height="714" selected="0" zOrder="27" index="17" expanded="1">
+                <_x0028_Direccion_x0029__XmlSimpleType left="17936" top="11292" width="5292" height="2831" selected="0" zOrder="30" index="0" expanded="1" />
+            </Direccion_XmlElement>
+            <Barrio_XmlElement left="12010" top="15689" width="5292" height="714" selected="0" zOrder="33" index="18" expanded="1">
+                <_x0028_Barrio_x0029__XmlSimpleType left="17936" top="14631" width="5292" height="2831" selected="0" zOrder="36" index="0" expanded="1" />
+            </Barrio_XmlElement>
+        </Pedidos_XmlElement>
+        <DetallePedido_XmlElement left="6084" top="41342" width="5292" height="2831" selected="0" zOrder="89" index="2" expanded="1">
+            <NoPedido_XmlElement left="12010" top="19028" width="5292" height="847" selected="0" zOrder="92" index="0" expanded="1">
+                <_x0028_NoPedido_x0029__XmlSimpleType left="17936" top="17970" width="5292" height="2831" selected="0" zOrder="94" index="0" expanded="1" />
+            </NoPedido_XmlElement>
+            <CodProducto_XmlElement left="12010" top="22367" width="5292" height="847" selected="0" zOrder="96" index="1" expanded="1">
+                <_x0028_CodProducto_x0029__XmlSimpleType left="17936" top="21309" width="5292" height="2831" selected="0" zOrder="98" index="0" expanded="1" />
+            </CodProducto_XmlElement>
+            <Capacidad_XmlElement left="12010" top="25706" width="5292" height="847" selected="0" zOrder="100" index="2" expanded="1">
+                <_x0028_Capacidad_x0029__XmlSimpleType left="17936" top="24648" width="5292" height="2831" selected="0" zOrder="102" index="0" expanded="1" />
+            </Capacidad_XmlElement>
+            <Nuevo_XmlElement left="12010" top="29045" width="5292" height="847" selected="0" zOrder="104" index="9" expanded="1">
+                <_x0028_Nuevo_x0029__XmlSimpleType left="17936" top="27987" width="5292" height="2831" selected="0" zOrder="106" index="0" expanded="1" />
+            </Nuevo_XmlElement>
+            <UnidadMedidaVenta_XmlElement left="12010" top="32384" width="5292" height="847" selected="0" zOrder="108" index="10" expanded="1">
+                <_x0028_UnidadMedidaVenta_x0029__XmlSimpleType left="17936" top="31326" width="5292" height="2831" selected="0" zOrder="110" index="0" expanded="1" />
+            </UnidadMedidaVenta_XmlElement>
+            <DescripcionProducto_XmlElement left="12010" top="35723" width="5292" height="714" selected="0" zOrder="112" index="11" expanded="1">
+                <_x0028_DescripcionProducto_x0029__XmlSimpleType left="17936" top="34665" width="5292" height="2831" selected="0" zOrder="115" index="0" expanded="1" />
+            </DescripcionProducto_XmlElement>
+            <TipoProducto_XmlElement left="12010" top="39062" width="5292" height="714" selected="0" zOrder="118" index="12" expanded="1">
+                <_x0028_TipoProducto_x0029__XmlSimpleType left="17936" top="38004" width="5292" height="2831" selected="0" zOrder="121" index="0" expanded="1" />
+            </TipoProducto_XmlElement>
+            <RequiereAsignacion_XmlElement left="12010" top="42401" width="5292" height="714" selected="0" zOrder="124" index="13" expanded="1">
+                <_x0028_RequiereAsignacion_x0029__XmlSimpleType left="17936" top="41343" width="5292" height="2831" selected="0" zOrder="127" index="0" expanded="1" />
+            </RequiereAsignacion_XmlElement>
+            <RequiereFlete_XmlElement left="12010" top="45740" width="5292" height="714" selected="0" zOrder="130" index="14" expanded="1">
+                <_x0028_RequiereFlete_x0029__XmlSimpleType left="17936" top="44682" width="5292" height="2831" selected="0" zOrder="133" index="0" expanded="1" />
+            </RequiereFlete_XmlElement>
+            <CodFlete_XmlElement left="12010" top="49079" width="5292" height="714" selected="0" zOrder="136" index="15" expanded="1">
+                <_x0028_CodFlete_x0029__XmlSimpleType left="17936" top="48021" width="5292" height="2831" selected="0" zOrder="139" index="0" expanded="1" />
+            </CodFlete_XmlElement>
+            <CapacidadActivo_XmlElement left="12010" top="52418" width="5292" height="714" selected="0" zOrder="142" index="16" expanded="1">
+                <_x0028_CapacidadActivo_x0029__XmlSimpleType left="17936" top="51360" width="5292" height="2831" selected="0" zOrder="144" index="0" expanded="1" />
+            </CapacidadActivo_XmlElement>
+            <Lastro_XmlElement left="12010" top="55757" width="5292" height="847" selected="0" zOrder="147" index="17" expanded="1">
+                <_x0028_Lastro_x0029__XmlSimpleType left="17936" top="54699" width="5292" height="2831" selected="0" zOrder="149" index="0" expanded="1" />
+            </Lastro_XmlElement>
+            <NoAutorizacion_XmlElement left="12010" top="59096" width="5292" height="847" selected="0" zOrder="151" index="18" expanded="1">
+                <_x0028_NoAutorizacion_x0029__XmlSimpleType left="17936" top="58038" width="5292" height="2831" selected="0" zOrder="153" index="0" expanded="1" />
+            </NoAutorizacion_XmlElement>
+            <IdDetalleAutorizacion_XmlElement left="12010" top="62435" width="5292" height="847" selected="0" zOrder="155" index="19" expanded="1">
+                <_x0028_IdDetalleAutorizacion_x0029__XmlSimpleType left="17936" top="61377" width="5292" height="2831" selected="0" zOrder="157" index="0" expanded="1" />
+            </IdDetalleAutorizacion_XmlElement>
+            <TipoPago_XmlElement left="12010" top="65774" width="5292" height="847" selected="0" zOrder="159" index="21" expanded="1">
+                <_x0028_TipoPago_x0029__XmlSimpleType left="17936" top="64716" width="5292" height="2831" selected="0" zOrder="161" index="0" expanded="1" />
+            </TipoPago_XmlElement>
+        </DetallePedido_XmlElement>
+    </PedidosDataSet_XmlElement>
+</XSDDesignerLayout>

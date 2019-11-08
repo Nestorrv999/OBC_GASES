@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B51B1E06-F9AA-4255-91E3-589FF06CE84F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Oxigenos.Liquidos</RootNamespace>
+    <AssemblyName>Oxigenos.Liquidos</AssemblyName>
+    <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <OSVersion>5.01</OSVersion>
+    <MyType>Windows</MyType>
+    <DeployDirSuffix>Oxigenos</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <OptionStrict>On</OptionStrict>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>Oxigenos.Liquidos.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>false</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>Oxigenos.Liquidos.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DatascanCF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\DatascanCF.dll</HintPath>
+    </Reference>
+    <Reference Include="DatascanCF.Symbol, Version=1.0.3258.32326, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\DatascanCF.Symbol.dll</HintPath>
+    </Reference>
+    <Reference Include="DatascanCF.Windows.Forms, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\DatascanCF.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="OpenNETCF, Version=2.2.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\OpenNETCF.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Windows.Forms, Version=2.1.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\OpenNETCF.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Symbol, Version=1.6.1.1, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\Symbol.dll</HintPath>
+    </Reference>
+    <Reference Include="Symbol.Barcode, Version=1.6.1.1, Culture=neutral, PublicKeyToken=68ec8db391f150ca">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\Symbol.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="DatascanCF.Windows.Forms" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="OpenNETCF" />
+    <Import Include="Oxigenos" />
+    <Import Include="Oxigenos.Common" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Common" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="VentaPorCaudalimetroForm.Designer.vb">
+      <DependentUpon>VentaPorCaudalimetroForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentaPorCaudalimetroForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaPorPesadaCamionForm.Designer.vb">
+      <DependentUpon>VentaPorPesadaCamionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentaPorPesadaCamionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaPorNivelesForm.Designer.vb">
+      <DependentUpon>VentaPorNivelesForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentaPorNivelesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\Definiciones.vb" />
+    <Compile Include="DataAccess\GestorHojasRutas.Designer.vb">
+      <DependentUpon>GestorHojasRutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\GestorHojasRutas.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess\GestorProductos.Designer.vb">
+      <DependentUpon>GestorProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\GestorProductos.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess\GestorReportes.designer.vb">
+      <DependentUpon>GestorReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\GestorReportes.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess\GestorVenta.Designer.vb">
+      <DependentUpon>GestorVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\GestorVenta.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess\HojasRutaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HojasRutaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\HojasRutaDataSet.vb">
+      <DependentUpon>HojasRutaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\ProductosDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProductosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\ProductosDataSet.vb">
+      <DependentUpon>ProductosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\ReportesDataSet.designer.vb">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataAccess\ReportesDataSet.vb">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\VentaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VentaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\VentaDataSet.vb">
+      <DependentUpon>VentaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FinRutaForm.Designer.vb">
+      <DependentUpon>FinRutaForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FinRutaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneracionForm.designer.vb">
+      <DependentUpon>GeneracionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GeneracionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globales.vb" />
+    <Compile Include="InicioRutaForm.Designer.vb">
+      <DependentUpon>InicioRutaForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicioRutaForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PrecintosForm.Designer.vb">
+      <DependentUpon>PrecintosForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrecintosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesForm.designer.vb">
+      <DependentUpon>ReportesForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaPorPesadaTanqueForm.Designer.vb">
+      <DependentUpon>VentaPorPesadaTanqueForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentaPorPesadaTanqueForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VentaPorCaudalimetroForm.resx">
+      <DependentUpon>VentaPorCaudalimetroForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaPorPesadaCamionForm.resx">
+      <DependentUpon>VentaPorPesadaCamionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaPorNivelesForm.resx">
+      <DependentUpon>VentaPorNivelesForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAccess\GestorHojasRutas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestorHojasRutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAccess\GestorProductos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestorProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAccess\GestorVenta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestorVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinRutaForm.resx">
+      <DependentUpon>FinRutaForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneracionForm.resx">
+      <DependentUpon>GeneracionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioRutaForm.resx">
+      <DependentUpon>InicioRutaForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrecintosForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrecintosForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesForm.resx">
+      <DependentUpon>ReportesForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaPorPesadaTanqueForm.resx">
+      <DependentUpon>VentaPorPesadaTanqueForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Liquidos.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataAccess\HojasRutaDataSet.xsc">
+      <DependentUpon>HojasRutaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\HojasRutaDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HojasRutaDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\HojasRutaDataSet.xss">
+      <DependentUpon>HojasRutaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\ProductosDataSet.xsc">
+      <DependentUpon>ProductosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\ProductosDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProductosDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\ProductosDataSet.xss">
+      <DependentUpon>ProductosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\ReportesDataSet.xsc">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\ReportesDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportesDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\ReportesDataSet.xss">
+      <DependentUpon>ReportesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\VentaDataSet.xsc">
+      <DependentUpon>VentaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\VentaDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VentaDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\VentaDataSet.xss">
+      <DependentUpon>VentaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Oxigenos.Shared\Oxigenos.Common.vbproj">
+      <Project>{76A418BF-DD42-487F-A520-B907CE1326DE}</Project>
+      <Name>Oxigenos.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F184B08F-C81C-45F6-A57F-5ABD9991F28F}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>"C:\Archivos de programa\Unlocker\Unlocker.EXE" "$(ProjectDir)obj\$(ConfigurationName)\$(TargetName).pdb" -S -D -O</PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
